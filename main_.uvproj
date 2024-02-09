@@ -411,9 +411,9 @@
               <FilePath>.\Startup.s</FilePath>
             </File>
             <File>
-              <FileName>embedded 1.c</FileName>
+              <FileName>main.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\embedded 1.c</FilePath>
+              <FilePath>.\main.c</FilePath>
             </File>
           </Files>
         </Group>
